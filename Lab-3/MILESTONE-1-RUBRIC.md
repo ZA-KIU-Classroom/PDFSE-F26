@@ -1,6 +1,6 @@
 # Milestone 1 Rubric: Discovery Review
 
-**Worth:** 10 points, team grade. **Due:** end of Week 4. **How to submit:** push the tag `m1-discovery` to your team repo, then fill in the LMS form. Both, or it is not submitted.
+**Worth:** 10 points, team grade. **Due:** end of Week 4. **How to submit:** push the tag `m1-discovery` to your team repo, then fill in the Google form provided over Microsoft Teams. Both, or it is not submitted.
 
 This is the whole rubric. There is nothing hidden. Each row is one file in your repo. Before you tag, go down this list and check every row yourself; if a row says "present" when you read your own file honestly, you have the point.
 
