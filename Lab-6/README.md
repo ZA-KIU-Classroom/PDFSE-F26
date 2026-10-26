@@ -28,11 +28,8 @@ Every team types one chat line: prototype link or `none`, sessions run out of 5,
 
 Then two random teams read their north star aloud; the room attacks it with the Week 5 tests. Defend or change it; a change is a DECISIONS.md line.
 
-## 0:20 to 0:35. Live demo
 
-I cut a volunteer team's feature list to a journey in ten minutes, narrating every cut. Every reason points at logs or the hypothesis, never difficulty.
-
-## 0:35 to 0:55. Checkpoint 1: the boundary
+## 0:00 to 0:55. Checkpoint 1: the boundary
 
 Copy `templates/mvp-boundary.md` to `03-build/mvp-boundary.md`. Value hypothesis at the top. Journey: five to seven numbered steps, who does what. Cut list: every feature you did not keep, a reason, when it comes back. Mapping: each step beside its event name, copied from the schema. A step with no event: add it to `03-build/analytics/event-schema.md` in the same commit, or cut the step. Boundary line in DECISIONS.md. Commit.
 
@@ -56,7 +53,7 @@ Track A: start `setup/SHIP-STACK-SETUP.md` step 1. Track B: message the testers 
 
 Board and daily merges, tonight: `optional-deep-dive/process-for-pods.md`.
 
-## 1:50 to 2:00. Homework, read aloud
+## 1:50 to 2:00. Homework
 
 **Deliverable:** `03-build/mvp-boundary.md` (journey, cut list, event mapping), architecture sketch, Sprint 1 plan. Begin building the journey.
 
